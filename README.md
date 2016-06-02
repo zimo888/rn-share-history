@@ -6,3 +6,8 @@ ReactNative 分享历史
 RN增量更新 http://www.jianshu.com/p/2cb3eb9604ca
 
 RN VS Html5 调研  http://pan.baidu.com/s/1jHMhd2m  
+
+ReactNative-redux
+http://cn.redux.js.org/
+ReactNative-redux的RNDemo
+https://github.com/alinz/example-react-native-redux   
